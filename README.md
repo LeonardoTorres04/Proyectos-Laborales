@@ -45,7 +45,7 @@ Bienvenidos a la sección de Proyectos desarrollados durante mi experiencia prof
 ---
 
 ### 🧾 5. Validador CAC - Extracción de Datos desde PDFs  
-**Descripción:** Desarrollo de una herramienta automatizada para validar y extraer información de Historias clínicas de las diferentes cohortes de patologías Alto Costo desde archivos PDF, extrayendo variables de acuedo a una estructura en Excel con difenetes campos.  
+**Descripción:** Desarrollo de una herramienta automatizada para validar y extraer información de Historias clínicas de las diferentes cohortes de patologías Alto Costo desde archivos PDF, extrayendo variables de acuerdo a una estructura en Excel con difenetes campos.  
 **Tecnologías:** Python, Pandas, Tesseract OCR, Poppler, OpenPyXL  
 **Logros:**  
 - Automatización del proceso de validación documental  
